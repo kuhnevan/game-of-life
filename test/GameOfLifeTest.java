@@ -96,7 +96,7 @@ public class GameOfLifeTest {
 	
 	@Test
 	public void testAccessBoard() {
-		assertTrue(life.accessBoard(2, 0) == 1);
+		assertTrue(life.accessBoard(2, 0) == 0);
 	}
 	
 	@After
