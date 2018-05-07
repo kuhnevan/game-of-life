@@ -1,5 +1,5 @@
 # Game of Life
-This program is an implementation of John Conway's Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+This program is an implementation of John Conway's Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)  
 It simulates a population of "cells" and determines whether each cell living cell should live or die, and whether new cells should be born.
 
 ## The Rules
@@ -9,6 +9,6 @@ It simulates a population of "cells" and determines whether each cell living cel
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
 ## Note
-Black represents living cells.
-Entering over 50 on the width of the grid will make it hard or impossible to see whether you have selected a space on the grid
+- Black represents living cells
+- Entering over 50 on the width of the grid will make it hard or impossible to see whether you have selected a space on the grid
   
