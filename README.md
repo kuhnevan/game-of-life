@@ -1,4 +1,4 @@
-# Game of Life
+# Game of Life [![Build Status](https://travis-ci.org/kuhnevan/game-of-life.svg?branch=master)](https://travis-ci.org/kuhnevan/game-of-life)
 This program is an implementation of John Conway's Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)  
 It simulates a population of "cells" and determines whether each cell living cell should live or die, and whether new cells should be born.
 
